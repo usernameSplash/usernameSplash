@@ -14,7 +14,7 @@
 ### 📖 History
 
 * 2016~18 : Daedeok Software Meister Highscool
-  * The Captain of Team.QSS : School Clup about Game Developing
+  * The Captain of Team.QSS : School Club about Game Developing
 * 2018~now : Elice, Inc (Educational Contents Developer)
 
 [![Github stats Of Splash.](https://github-readme-stats.vercel.app/api?username=usernameSplash)](https://github.com/anuraghazra/github-readme-stats)
