@@ -17,4 +17,4 @@
   * The Captain of Team.QSS : School Club about Game Developing
 * 2018~now : Elice, Inc (Educational Contents Developer)
 
-[![Github stats Of Splash.](https://github-readme-stats.vercel.app/api?username=usernameSplash)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats Of Splash.](https://github-readme-stats.vercel.app/api?username=usernameSplash&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
