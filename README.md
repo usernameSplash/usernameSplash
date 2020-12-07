@@ -9,7 +9,7 @@
 ### 🔥 I'm interested in...
 
 * Game Programming
-* C#, Python
+* C++, C#, Python
 
 ### 📖 History
 
