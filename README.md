@@ -2,7 +2,7 @@
 
 ### 🙌🏻 Welcome to my Github Page.
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=leomessi)](https://solved.ac/leomessi)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leomessi)](https://solved.ac/leomessi)
 
 
 ### 🔥 I'm interested in...
