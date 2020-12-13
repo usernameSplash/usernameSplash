@@ -8,7 +8,7 @@
 ### 🔥 I'm interested in...
 
 * Game Programming, Backend
-* C++, C#, Python
+* C++, C#, Python, Java
 
 ### 📖 History
 
