@@ -10,8 +10,10 @@
 
 ### 🔥 I'm interested in...
 
-* Game Programming, Backend
-* C++, C#, Python, Java
+* Game Programming
+* C++
+* Computer Graphics
+* Network and Socket Programming(Not yet learned)
 
 ### 📖 History
 
