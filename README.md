@@ -13,7 +13,7 @@
 * Game Programming
 * C++
 * Computer Graphics
-* Network and Socket Programming(Not yet learned)
+* Network and Socket Programming
 
 ### 📖 History
 
